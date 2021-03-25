@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+  }
+  
+/* Create two equal columns that sits next to each other */
+.column {
+    flex: 50%;
+}
+
+.column:first-child{
+    margin-top: 4%;
+}
+
+.MuiButton-label {
+    padding: 0px 89px;
+}

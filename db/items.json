@@ -1,0 +1,223 @@
+{
+    "price":150,
+    "name":"Rajasthan Meals",
+    "cusine":"Red Chillies",
+    "photo":"https://defecttrackerimages.s3.ap-south-1.amazonaws.com/dish4.jpg",
+    "type":"veg",
+    "time":"30",
+    "dishes":[
+      {
+        "name":"paneer kebab",
+        "type":"starter",
+        "ingredients":[{
+          "name":"paneer",
+          "quantity":"50",
+          "units":"grams"
+        },{
+          "name":"mixed spices",
+          "quantity":"20",
+          "units":"grams"
+        }]
+      },
+      {
+        "name":"poori-chole batura",
+        "type":"main",
+        "ingredients":[{
+          "name":"wheatflour",
+          "quantity":"100",
+          "units":"grams"
+        },{
+          "name":"chole",
+          "quantity":"150",
+          "units":"grams"
+        }]
+      },
+      {
+        "name":"pumpkin halwa",
+        "type":"dessert",
+        "ingredients":[{
+          "name":"pumpkin",
+          "quantity":"10",
+          "units":"pieces"
+        },{
+          "name":"ghee",
+          "quantity":"20",
+          "units":"grams"
+        },{
+          "name":"sugar",
+          "quantity":"10",
+          "units":"grams"
+        }]
+      }
+    ]
+},
+
+{
+    "price":200,
+    "name":"Maharashtra Meals",
+    "cusine":"Pulse",
+    "photo":"https://defecttrackerimages.s3.ap-south-1.amazonaws.com/dish3.jpg",
+    "type":"veg",
+    "time":"30",
+    "dishes":[
+      {
+        "name":"Sabudana Wada",
+        "type":"starter",
+        "ingredients":[{
+          "name":"Urad dal",
+          "quantity":"100",
+          "units":"grams"
+        },{
+          "name":"pepper",
+          "quantity":"3",
+          "units":"grams"
+        },{
+          "name":"green Chillies paste",
+          "quantity":"4",
+          "units":"grams"
+        }]
+      },
+      {
+        "name":"Varan Bhat",
+        "type":"main",
+        "ingredients":[{
+          "name":"moong dal",
+          "quantity":"100",
+          "units":"grams"
+        },{
+          "name":"arhar dal",
+          "quantity":"150",
+          "units":"grams"
+        }]
+      },
+      {
+        "name":"Puran Poli",
+        "type":"dessert",
+        "ingredients":[{
+          "name":"jaggery",
+          "quantity":"100",
+          "units":"grams"
+        },{
+          "name":"ghee",
+          "quantity":"20",
+          "units":"grams"
+        },{
+          "name":"sugar",
+          "quantity":"10",
+          "units":"grams"
+        }]
+      }
+    ]
+},
+
+{
+    "price":200,
+    "name":"Vijayawada Non-Veg Meals",
+    "cusine":"Bliss",
+    "photo":"https://defecttrackerimages.s3.ap-south-1.amazonaws.com/dish2.jpg",
+    "type":"Non-veg",
+    "time":"35",
+    "dishes":[
+      {
+        "name":"Chiken Kebab",
+        "type":"starter",
+        "ingredients":[{
+          "name":"Chicken",
+          "quantity":"150",
+          "units":"grams"
+        },{
+          "name":"Corn Flour",
+          "quantity":"30",
+          "units":"grams"
+        },{
+          "name":"green Chillies paste",
+          "quantity":"14",
+          "units":"grams"
+        }]
+      },
+      {
+        "name":"Coconut milk rice",
+        "type":"main",
+        "ingredients":[{
+          "name":"Coconut Milk",
+          "quantity":"100",
+          "units":"grams"
+        },{
+          "name":"Basmathi Rice",
+          "quantity":"250",
+          "units":"grams"
+        }]
+      },
+      {
+        "name":"Rava Kesari",
+        "type":"dessert",
+        "ingredients":[{
+          "name":"Rava Kesari",
+          "quantity":"100",
+          "units":"grams"
+        },{
+          "name":"ghee",
+          "quantity":"20",
+          "units":"grams"
+        },{
+          "name":"sugar",
+          "quantity":"100",
+          "units":"grams"
+        }]
+      }
+    ]
+},
+
+{
+    "price":250,
+    "name":"Chittoor Non-Veg Meals",
+    "cusine":"Bhimas",
+    "photo":"https://defecttrackerimages.s3.ap-south-1.amazonaws.com/dish1.jpg",
+    "type":"Non-veg",
+    "time":"35",
+    "dishes":[
+      {
+        "name":"Grill Chicken",
+        "type":"starter",
+        "ingredients":[{
+          "name":"Chicken",
+          "quantity":"150",
+          "units":"grams"
+        },{
+          "name":"green Chillies paste",
+          "quantity":"14",
+          "units":"grams"
+        }]
+      },
+      {
+        "name":"Biryani",
+        "type":"main",
+        "ingredients":[{
+          "name":"Chicken",
+          "quantity":"100",
+          "units":"grams"
+        },{
+          "name":"Basmathi Rice",
+          "quantity":"250",
+          "units":"grams"
+        }]
+      },
+      {
+        "name":"Payasam",
+        "type":"dessert",
+        "ingredients":[{
+          "name":"Vermicelli",
+          "quantity":"100",
+          "units":"grams"
+        },{
+          "name":"ghee",
+          "quantity":"20",
+          "units":"grams"
+        },{
+          "name":"sugar",
+          "quantity":"100",
+          "units":"grams"
+        }]
+      }
+    ]
+}

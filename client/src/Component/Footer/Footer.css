@@ -1,0 +1,22 @@
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    background-color: #e7e7e7;
+    border-top: 1px solid #ddd;
+}
+
+.footer p {
+    margin-top: 10px;
+    font-size:revert;
+}
+
+.footer .text-muted {
+    color: #141617!important;
+}
