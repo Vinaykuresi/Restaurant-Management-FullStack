@@ -34,7 +34,7 @@
 #### *** Setup Environment Variables(.env) of Your Preffered Cloud Plaltform. ***
 ![Alt text](documentation/snippets/Capture.PNG)
 
-##### In the Live Site, i have given Register option only for Customers.
+##### In the Live Site, i have given Login option only for Admins.
 ##### Whers as in Code Resposity, you will have Components for Admin Register.
 
 ```
