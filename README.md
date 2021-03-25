@@ -40,7 +40,7 @@
 ```
 	Restaurant Management Application.
 	
-	The Customer : will have permission, to only view the Meal Item, dishes and Ingredients.
+	The Customer : will have permission upon login, to only view the Meal Item, dishes and Ingredients.
 	
 	The Admin : Have the Access to View, Add, Update and Delete the Meal Items.
 	
