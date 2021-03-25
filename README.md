@@ -46,7 +46,7 @@
 	
 ```
 
-### [Live Site(Go to live site and Explore)](https://master.d3r9m3wy07riln.amplifyapp.com/)
+### [Live Site(Go to live site and Explore)](https://main.dmxieihm2ndig.amplifyapp.com/)
 
 #### *** HomePage View ***
 ![Alt text](documentation/snippets/mainPage.PNG)
