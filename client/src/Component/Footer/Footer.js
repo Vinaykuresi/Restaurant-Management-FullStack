@@ -11,7 +11,7 @@ class Footer extends React.Component {
             <div className="col-sm-4">
             </div>
             <div className="col-sm-4">
-              <center><p className="text-muted credit">Assignment by OpsTech</p></center>
+              <center><p className="text-muted credit">Full Stack Web Development By Vinay Kumar Kuresi</p></center>
             </div>
             <div className="col-sm-4" style={{ "textAlign": 'right' }}>
             </div>
